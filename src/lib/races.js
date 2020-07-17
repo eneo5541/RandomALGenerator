@@ -38,7 +38,7 @@ const races = [
   { race: 'Goliath', book: EE },
   { race: 'Aasimar', subrace: 'Fallen', book: PHB },
   { race: 'Aasimar', subrace: 'Protector', book: PHB },
-  { race: 'Aasimar', subrace: 'Scourage', book: PHB },
+  { race: 'Aasimar', subrace: 'Scourge', book: PHB },
   { race: 'Aasimar', subrace: 'Variant', book: PHB },
   { race: 'Bugbear', book: VGM },
   { race: 'Firbolg', book: VGM },
